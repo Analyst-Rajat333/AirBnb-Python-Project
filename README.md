@@ -79,8 +79,15 @@ This project presents a complete exploratory data analysis (EDA) on Airbnb listi
 
 ---
 
-## 🚀 How to Run This Project
+## 🔗 GitHub Repository Link
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Analyst-Rajat333/AirBnb-Python-Project.git
+https://github.com/Analyst-Rajat333/AirBnb-Python-Project
+
+---
+
+## 👨‍💻 Author
+
+**Rajat Saxena**  
+📧 **Email**: [rajatsaxena950@gmail.com](mailto:rajatsaxena950@gmail.com)  
+🔗 **GitHub**: [Analyst-Rajat333](https://github.com/Analyst-Rajat333)
+
